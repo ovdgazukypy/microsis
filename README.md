@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Add OBB benchmarks to CI (#7777)

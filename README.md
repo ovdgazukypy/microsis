@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Fix PNNX ubuntu -> linux bug (#7050)

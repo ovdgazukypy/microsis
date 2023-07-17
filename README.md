@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Fix OpenVINO links (#7930)

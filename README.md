@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)

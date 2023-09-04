@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)

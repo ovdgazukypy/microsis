@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)

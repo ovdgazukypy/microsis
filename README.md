@@ -1,1 +1,1 @@
-fix non-coco val
+OBB: Fix plot_images (#7592)

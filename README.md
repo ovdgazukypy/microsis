@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)

@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)

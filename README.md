@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Update Discord and Contributing Guide URLs (#9270)

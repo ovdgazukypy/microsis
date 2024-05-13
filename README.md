@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)

@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)

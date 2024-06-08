@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)

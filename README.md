@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add dota8.yaml and O tests (#7394)

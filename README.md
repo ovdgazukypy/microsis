@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Add docs guide terminal images (#8819)

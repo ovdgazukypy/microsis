@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add new YOLOv8 OBB model metrics (#7379)

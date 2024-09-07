@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Merge pull request #22 from SkalskiP/patch-1

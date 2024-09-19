@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add quantization support to TensorFlow.js converter (#7008)
